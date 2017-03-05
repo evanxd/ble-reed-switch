@@ -4,6 +4,7 @@ An Arduino firmware to drive a Bluetooth Low Energy based reed switch to sense y
 ![Device](./images/device.jpg)
 
 ## Layout
+Please connect a BLE shield to your Arduino board.
 ![Layout](./images/layout.png)
 
 [arduino-bleperipheral]: https://github.com/sandeepmistry/arduino-BLEPeripheral
